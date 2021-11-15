@@ -23,6 +23,10 @@ Pinata is a pay-for-service and offers limited free storage for testing purposes
 
 The easiest and recommended way to upload images to IPFS is by creating a folder that holds the images numbered as \[ 1.png, 2.png, ... ]. It's important to have numbered images because the contract assigns indexes when minting tokens. See minting section in [Deployer guide](deployer-contract.md#2.-deploy-contract) for details on base image and metadata URIs.&#x20;
 
+The folders contents should be as pictured beloew:
+
+![](<../.gitbook/assets/image (6).png>)
+
 After preparing the images and placing them in a folder, navigate to [https://app.pinata.cloud/pinmanager](https://app.pinata.cloud/pinmanager) and follow the steps.
 
 From the manager console click the + Upload button:&#x20;
@@ -37,7 +41,7 @@ Click select, browse and choose the folder containing your images. You will be p
 
 If everything goes well, the images will uploaded and you should be able to see the created folder in your manager console. Upon clicking on the folder, you should be redirected to the IPFS gateway, showing your folder structure with all the files in it:
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 ![](../.gitbook/assets/image.png)
 
@@ -56,6 +60,10 @@ Similarly to uploading images, you need to create a folder that contains the att
 {% hint style="warning" %}
 Warning: When preparing the attributes files, regardless of the method you use to generate them, make sure the files contained by the folder do not have a **.json **extension, otherwise the contract will produce a wrong metadata link format.
 {% endhint %}
+
+Place your json metadata as pictured below, without the **.json **extension:
+
+![](<../.gitbook/assets/image (8).png>)
 
 Once your attributes files are created and placed in a folder, you are ready to upload. In order to upload, follow all steps described above in the Uploading images section. After uploading you should see your folder. Upon clicking on it, you will be redirected to the IPFS gateway where you should be able to see your files:
 
