@@ -2,7 +2,9 @@
 
 The deployer contract is used to deploy minter contracts used for collections minting directly on chain. It makes the setup much easier for a non-technical person, as all the steps needed can be performed from the Erdsea platform, by filling the parameters explained in this guide.
 
-There are 4 steps that have to be done in order to deploy the minting contract.
+There are 4 steps that have to be done in order to deploy the minting contract. If you don't want to read all the steps described below, although recommended, we prepared a video in which we follow the steps needed to create a collection :point\_down:
+
+{% embed url="https://www.youtube.com/watch?v=4GexihVauYM" %}
 
 ### 1. NFT issue
 
