@@ -4,7 +4,7 @@ The deployer contract is used to deploy minter contracts used for collections mi
 
 There are 4 steps that have to be done in order to deploy the minting contract. If you don't want to read all the steps described below, although recommended, we prepared a video in which we follow the steps needed to create a collection :point\_down:
 
-{% embed url="https://www.youtube.com/watch?v=4GexihVauYM" %}
+{% embed url="https://www.youtube.com/watch?v=0Bdzri3U878" %}
 
 ### 1. NFT issue
 
