@@ -8,6 +8,8 @@
 * [Minter Contract](guides/minter-contract.md)
 * [Deployer contract](guides/deployer-contract.md)
 * [Uploading content](guides/uploading-content.md)
+* [Platform Minting](guides/platform-minting.md)
+* [Getting Verified](guides/getting-verified.md)
 
 ***
 
