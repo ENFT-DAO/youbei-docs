@@ -10,7 +10,21 @@ ip endpoint: ls-1fbc6e4229157c0e4f9efb07b95a591984a5a936.cyui9j4mutm1.us-east-2.
 
 
 *************************************************************************************************************
-elrond-observer - This is the server for the elrond node
+elrond-observer-squad - This is the server for the elrond node
+
+
+https://docs.elrond.com/integrators/observing-squad/
+
+~/elrond-proxy/config/external.toml
+
+[EventNotifierConnector]
+    Enabled = true 
+    ProxyUrl = "container-service-youbei-api.service.local:5000"
+
+*************************************************************************************************************
+
+
+
 
 Probably use this next time https://github.com/ElrondNetwork/elrond-go-scripts-mainnet
 
