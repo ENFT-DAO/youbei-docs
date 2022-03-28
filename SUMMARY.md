@@ -8,5 +8,7 @@
     * [Login via Desktop](readme/getting-started/login-via-desktop.md)
     * [Customizing Your Profile](readme/getting-started/customizing-your-profile.md)
   * [List any NFT](readme/sell-any-nft.md)
-  * [Creating an NFT Collection](readme/creating-bulk-collection.md)
+  * [Creating an NFT Collection](readme/creating-an-nft-collection/README.md)
+    * [Page 1](readme/creating-an-nft-collection/page-1.md)
+    * [Page 2](readme/creating-an-nft-collection/page-2.md)
   * [Support & Services](readme/support-and-services.md)
