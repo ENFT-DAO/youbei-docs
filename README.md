@@ -1,8 +1,20 @@
-# What is Erdsea?
+# Youbei NFT Platform
 
-Erdsea is an open marketplace built on Elrond network that aims to create and provide the best tools for creators, developers and users. Its main goal is to enable the community to trade their digital assets freely, while having all the tools required.
+Youbei is an open marketplace built on Elrond network that aims to create and provide the best tools for creators, developers and users. Its main goal is to enable the community to trade their digital assets freely.&#x20;
+
+**Benefits**
+
+Safe
+
+Fast&#x20;
+
+Easy
 
 ### Core features
+
+#### List any NFT
+
+
 
 #### Collections minting
 
@@ -37,7 +49,5 @@ Follow our handy guides to get familiar with the tools as quickly as possible:
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Good to know:** The guides provided are intended to offer a walkthrough in the standards implemented by Erdsea and how to make use of these to bootstrap your project.
+**Good to know:** The guides provided are intended to offer a walkthrough in the standards implemented by ENFT DAO and how to make use of these to bootstrap your project.
 {% endhint %}
-
-
