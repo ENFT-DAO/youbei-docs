@@ -1,4 +1,4 @@
-# Sell any NFT
+# List any NFT
 
 Youbei allows you to list any Elrond NFT for sale.&#x20;
 
