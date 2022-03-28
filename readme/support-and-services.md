@@ -6,11 +6,13 @@ Please contact youbei-support@elrondnft.io
 
 ## Creator Services
 
-We provide services to help creators including:
+We also provide services to help creators including:
 
+* Artwork and NFT Generation
+* Go-To-Market Strategy
 * Whitelist Enforcement
 * Variable Mint Pricing
-* Development Support
+* Development & Blockchain Support
 * Feature Requests
 
-Please contact marketing@elrondnft.io for inquiries&#x20;
+Please contact marketing@elrondnft.io for inquiries and pricing
