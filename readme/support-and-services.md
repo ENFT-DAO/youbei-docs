@@ -16,4 +16,4 @@ We also provide services to help creators including:
 * Development & Blockchain Support
 * Feature Requests
 
-Please contact marketing@elrondnft.io for a free discovery session. We love to meet other builders and to empower every creator!
+We love to meet other builders and to empower every creator! Please contact marketing@elrondnft.io for a free discovery session.&#x20;
