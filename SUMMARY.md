@@ -6,5 +6,5 @@
     * [Login via Mobile](readme/getting-started/login-via-mobile.md)
     * [Login via Desktop](readme/getting-started/login-via-desktop.md)
     * [Customizing Your Profile](readme/getting-started/customizing-your-profile.md)
-  * [Creating Bulk Collection](readme/creating-bulk-collection.md)
   * [List any NFT](readme/list-any-nft.md)
+  * [Creating Bulk Collection](readme/creating-bulk-collection.md)

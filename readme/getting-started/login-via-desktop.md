@@ -8,7 +8,7 @@
 
 2\. Next select Login
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 3\. Open your Maiar Application on your Phone
 
