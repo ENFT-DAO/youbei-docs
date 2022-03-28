@@ -7,8 +7,6 @@ description: >-
 
 # Creating Bulk Collection
 
-
-
 1. Once you've logged in click on the wallet icon on any page ![](<../.gitbook/assets/5Screenshot 2022-03-27 204431.jpg>)
 
 2\. Click on Profile
@@ -21,4 +19,4 @@ description: >-
 
 4\. Follow the Create Collection Wizard
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
