@@ -8,6 +8,7 @@ Please contact youbei-support@elrondnft.io
 
 We also provide services to help creators including:
 
+* White-Glove Walkthroughs
 * Artwork and NFT Generation
 * Go-To-Market Strategy
 * Whitelist Enforcement
@@ -15,4 +16,4 @@ We also provide services to help creators including:
 * Development & Blockchain Support
 * Feature Requests
 
-Please contact marketing@elrondnft.io for inquiries and pricing
+Please contact marketing@elrondnft.io for a free discovery session. We love to meet other builders and to empower every creator!
