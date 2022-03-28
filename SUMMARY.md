@@ -7,6 +7,6 @@
     * [Login via Ledger](readme/getting-started/login-via-ledger.md)
     * [Login via Desktop](readme/getting-started/login-via-desktop.md)
     * [Customizing Your Profile](readme/getting-started/customizing-your-profile.md)
-  * [Sell any NFT](readme/sell-any-nft.md)
-  * [Creating Bulk Collection](readme/creating-bulk-collection.md)
+  * [List any NFT](readme/list-any-nft.md)
+  * [Creating an NFT Collection](readme/creating-an-nft-collection.md)
   * [Support](readme/support.md)

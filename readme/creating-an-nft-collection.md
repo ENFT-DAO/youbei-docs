@@ -1,11 +1,10 @@
 ---
 description: >-
   Recommended for collections over 10 NFTs. Collections created on Youbei will
-  be open to mint and listed immediately. For whitelist enforcement and other
-  services please contact us directly.
+  be open to mint and listed immediately.
 ---
 
-# Creating Bulk Collection
+# Creating an NFT Collection
 
 1. Once you've logged in click on the wallet icon on any page ![](<../.gitbook/assets/5Screenshot 2022-03-27 204431.jpg>)
 
