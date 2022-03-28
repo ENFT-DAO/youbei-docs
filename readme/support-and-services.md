@@ -1,6 +1,6 @@
 # Support & Services
 
-Not Safe, Fast or Easy?&#x20;
+Not Safe, Fast or Easy? Need help?
 
 Please contact youbei-support@elrondnft.io
 
