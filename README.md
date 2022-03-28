@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Graphics for ENFT (2).png
+coverY: 0
+---
+
 # Youbei NFT Platform
 
 Youbei is an open marketplace built on Elrond network that aims to create and provide the best tools for creators, developers and users. Its main goal is to enable the community to trade their digital assets freely.&#x20;
