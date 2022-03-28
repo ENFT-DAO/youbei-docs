@@ -8,3 +8,4 @@
     * [Customizing Your Profile](readme/getting-started/customizing-your-profile.md)
   * [Sell any NFT](readme/sell-any-nft.md)
   * [Creating Bulk Collection](readme/creating-bulk-collection.md)
+  * [Support](readme/support.md)
