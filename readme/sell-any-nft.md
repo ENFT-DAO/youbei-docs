@@ -1,6 +1,6 @@
-# List any NFT
+# Sell any NFT
 
-Youbei allows you to list any Elrond NFT.&#x20;
+Youbei allows you to list any Elrond NFT for sale.&#x20;
 
 1. Once you've logged in click on the wallet icon on any page ![](<../.gitbook/assets/5Screenshot 2022-03-27 204431.jpg>)
 2.  Click on Profile
