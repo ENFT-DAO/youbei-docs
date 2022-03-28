@@ -1,3 +1,9 @@
+---
+description: >-
+  Recommended for collections over 10 NFTs. If less, use the Elrond Wallet
+  (wallet.elrond.com).
+---
+
 # Creating Bulk Collection
 
 1. Once you've logged in click on the wallet icon on any page ![](<../.gitbook/assets/5Screenshot 2022-03-27 204431.jpg>)
