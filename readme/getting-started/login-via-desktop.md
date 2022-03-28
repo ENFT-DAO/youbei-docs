@@ -16,4 +16,4 @@
 
 4\. Wallet Connect -> Scan QR Code&#x20;
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)

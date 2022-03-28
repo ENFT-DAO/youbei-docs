@@ -16,6 +16,6 @@ Youbei allows you to list any Elrond NFT for sale.&#x20;
 
 5\. Select "Fixed price" and enter a price
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Note: Timed Auction will be enabled soon

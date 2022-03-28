@@ -9,6 +9,6 @@
     * [Customizing Your Profile](readme/getting-started/customizing-your-profile.md)
   * [List any NFT](readme/sell-any-nft.md)
   * [Creating an NFT Collection](readme/creating-an-nft-collection/README.md)
-    * [Page 1](readme/creating-an-nft-collection/page-1.md)
-    * [Page 2](readme/creating-an-nft-collection/page-2.md)
+    * [Adding Collection Information](readme/creating-an-nft-collection/adding-collection-information.md)
+    * [☑ Collection verification](readme/creating-an-nft-collection/collection-verification.md)
   * [Support & Services](readme/support-and-services.md)
