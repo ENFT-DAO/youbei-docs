@@ -6,6 +6,8 @@ description: >-
 
 # Create an NFT Collection
 
+Note: Prior to creating a collection please be sure to have uploaded your artwork and metadata to IPFS. We recommend [`https://app.pinata.cloud/`](https://app.pinata.cloud). For Metadata standards please visit [`https://docs.elrond.com/developers/nft-tokens/`](https://docs.elrond.com/developers/nft-tokens/)``
+
 1. Once you've logged in click on the wallet icon on any page&#x20;
 
 ![](<../../.gitbook/assets/5Screenshot 2022-03-27 204431.jpg>)
